@@ -1,0 +1,19 @@
+{
+  "name": "motune",
+  "description": "ril-gun",
+  "keywords": ["motune"],
+  "env": {
+    "WHO": {
+      "description": "papa",
+      "value": "Rogen"
+     },
+    "WEBSERVER_PORT": {
+      "description": "port",
+      "value": "0:0:0:0:$PORT",
+      "required": false
+     } 
+  },
+  "website": "https://github.com/koasg6/Froll1",
+  "repository": "https://github.com/koasg6/Froll1",
+  "stack": "container"
+ }
